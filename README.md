@@ -2,7 +2,7 @@
 使用電商Olist提供的資料，建立產品推薦系統。<br/>
 Data_link: <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce/kernels">Brazilian E-Commerce Public Dataset by Olist</a>
 <h4>目標</h4>
-使用電商Olist提供的客戶資料、產品資料、訂單資料和購買評價，使用Turcreate套件進行產品推薦系統建立，為每個客戶提供10筆推薦產品。
+使用電商Olist提供的客戶資料、產品資料、訂單資料和購買評價，使用Turicreate套件進行產品推薦系統建立，為每個客戶提供10筆推薦產品。
 <lo>
 <li>資料筆數：112,650筆(資料整合後)</li>
 <li>資料區間：2016/09/04~2018/09/93</li>
